@@ -1,2 +1,2 @@
 demo   :
-https://github.com/cikke/wzq/blob/master/index.html
+htmlpreview.github.io/?https://github.com/cikke/wzq/blob/master/index.html
