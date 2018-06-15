@@ -1,0 +1,37 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.table {
+	width: 570px;
+	height: 570px;
+	position: absolute;
+	margin: auto;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	z-index:250;
+}
+.table-h{
+	width:570px;
+	height:30px;
+	z-index:50;
+}
+.table-a{
+	width:30px;
+	height:30px;
+	float:left;
+	z-index:200;
+	border-radius:15px;
+}
+.table-canvas{
+	position: absolute;
+	margin: auto;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+}
